@@ -14,4 +14,8 @@ public class Main {
     static Car getCar(){
         return new Truck();
     }
+//주석입니다
+    static void godo(){
+        System.out.println("hell");
+    }
 }
